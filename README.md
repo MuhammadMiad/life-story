@@ -1,2 +1,2 @@
-# life-story
-This repo contains my life story.
+Data Structure
+This repo contains my data structure project.
